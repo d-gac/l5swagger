@@ -8,11 +8,11 @@ class TestController extends Controller
 {
     /**
      * @OA\Get(
-     *     path="/testing",
+     *     path="/api/testing",
      *     @OA\Response(response="200", description="Display a listing of projects.")
      * )
      */
     public function index(){
-        return "test 123";
+        return "test";
     }
 }

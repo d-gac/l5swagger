@@ -5,9 +5,9 @@
         "version": "0.1"
     },
     "paths": {
-        "/testing": {
+        "/api/testing": {
             "get": {
-                "operationId": "e617882dfa2c8d5c5fca72fb1742d895",
+                "operationId": "263ee7a4839d921bc3a773b1dab69812",
                 "responses": {
                     "200": {
                         "description": "Display a listing of projects."
